@@ -16,13 +16,6 @@ An interactive, terminal-based Rock Paper Scissors game that pits human intuitio
 
 ---
 
-## 📸 Visuals & Logic
-
-### Game Execution
-Below is a look at the game logic in action, featuring the user selection and result determination:
-
-![Game Output](link_to_your_canva_output_image_here)
-
 ### Logic Breakdown
 I focused on creating clean, scannable code. Key highlights include:
 1. **The Choice Engine:** Converting integers to game strings.
